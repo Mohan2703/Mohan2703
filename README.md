@@ -13,6 +13,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mohan-s/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rajmohan2703@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://dash.infinityfree.com/accounts/if0_38592397/domains/mohansrinivas.lovestoblog.com)
 
 
 ## 💻 Tech Stack:
