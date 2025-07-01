@@ -6,7 +6,7 @@
 ## 📑 Certifications :
 - Microsoft Excel crash course certificate from [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-87b74915-b53e-4030-a211-68229a112a7c/)
 - Microsoft Excel from Beginner to Advanced level certificate from [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-8e39a134-97cc-4241-abe4-415ab69166ae/)
-- Google Data Analyst Certificate from ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
+- Google Data Analyst Certificate from [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)](https://coursera.org/share/dfd790e19f6b89974c3925e1642ab470)
 - SQL (Basic and Intermediate) skill certification with SQL 5⭐(Gold Badge) from ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=black)
 - Certification for completing the Data Visualisation course at Anudip Foundation Skill and Career Development Centre at KAAFW.
 
