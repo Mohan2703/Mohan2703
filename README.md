@@ -21,6 +21,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://datascienceportfol.io/mohan_Srinivas)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rajmohan2703@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mohan2703)
+[![Mohan_Resume.pdf](https://img.shields.io/badge/Resume-FFFFFF?logo=Aseprite&logoColor=#7D929E)](https://github.com/user-attachments/files/22925926/Mohan_Resume.pdf)
 
 
 ## 💻 Tech Stack:
